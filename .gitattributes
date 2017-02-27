@@ -1,1 +1,2 @@
 bdl_arctic_full_data.zip filter=lfs diff=lfs merge=lfs -text
+bdl_arctic_full.tbz2 filter=lfs diff=lfs merge=lfs -text
